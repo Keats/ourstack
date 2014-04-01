@@ -63,10 +63,3 @@ def setup_db(url):
     _reset_database(engine)
 
     return sessionmaker(bind=engine)()
-
-
-
-
-
-
-

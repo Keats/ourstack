@@ -26,7 +26,6 @@ def load_company(session, company_data):
 
 if __name__ == "__main__":
     db_url = 'postgresql://testing:password@localhost/ourstack'
-
     companies_path = '../companies'
 
     # allows specifying the db url when calling the script directly

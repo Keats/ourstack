@@ -3,9 +3,6 @@ import os
 import yaml
 
 
-test_path = '../companies'
-
-
 def _validate_company(company_data):
     """
     A company should have at least a name, a website and 1 tech and a location
