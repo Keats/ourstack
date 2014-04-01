@@ -1,0 +1,16 @@
+---
+
+name: ACME
+website: www.acme.com
+size: 0-10
+location:
+  city: London
+  country: UK
+  postcode: WC7X IL1
+allows_remote: true
+description: We try to conquer the world every day.
+stack:
+  - Python
+  - Django
+  - Javascript
+  - Angularjs

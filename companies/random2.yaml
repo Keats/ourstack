@@ -1,0 +1,16 @@
+---
+
+name: EVIL
+website: www.evil.com
+size: 0-10
+location:
+  city: Paris
+  country: FR
+  postcode: 01000
+allows_remote: true
+description: We try to conquer the world every day.
+stack:
+  - Python
+  - Django
+  - Javascript
+  - Angularjs
